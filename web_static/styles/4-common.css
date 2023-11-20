@@ -1,0 +1,21 @@
+/* styles/3-common.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 4rem;
+  }
+
+  .container {
+    max-width: 1000px;
+    margin: 30px auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+  
