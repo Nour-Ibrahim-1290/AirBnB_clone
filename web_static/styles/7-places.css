@@ -1,0 +1,25 @@
+/* Styling of Places Section */
+
+.places h1 {
+    font-size: 30px;
+}
+
+.places article {
+    text-align: center;
+    width: 390px;
+    padding: 0px;
+    margin: 20px;
+    border: #FF5A5F 1px solid;
+    border-radius: 4px;
+}
+
+.places article h2 {
+    font-size: 30px;
+}
+
+.articles {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
